@@ -1,5 +1,5 @@
 # Stacks
-Generic stacks for Go.
+Thread-safe, generic stacks for Go.
 
 ![](https://github.com/twharmon/stacks/workflows/Test/badge.svg) [![](https://goreportcard.com/badge/github.com/twharmon/stacks)](https://goreportcard.com/report/github.com/twharmon/stacks) [![codecov](https://codecov.io/gh/twharmon/stacks/branch/main/graph/badge.svg?token=K0P59TPRAL)](https://codecov.io/gh/twharmon/stacks)
 
